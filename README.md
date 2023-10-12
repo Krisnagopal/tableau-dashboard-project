@@ -8,7 +8,7 @@ This project aimed for enhancing my dashboarding skill in Tableau using a sample
 
 <h2>Dashboards designed: </h2>
 
-- <b>Category Dashboard - this will give clear indications about which category is doing how </b>
+- <b>1. Category Dashboard - this will give clear indications about which category is doing how </b>
   - [Click here to view the Dashboard on Tableau Public](https://public.tableau.com/views/1_CategoryDashboard/CategoryDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 <br/>
 <img src="https://i.imgur.com/WbcwJUm.png" height="80%" width="80%" alt="Category-Dashboard"/>
