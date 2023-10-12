@@ -12,7 +12,7 @@ This project is aimed for enhancing my dashboarding skill in Tableau using a sam
 <br/>
 <img src="https://i.imgur.com/WbcwJUm.png" height="80%" width="80%" alt="Category-Dashboard"/>
 <br />
-It is clear that "Technology" category has performed the best both in sales and profit and the rising trends are also clear for it. Although "Furniture" has a high sale traditionally, it does not produces high profit. Rather in recent times, "Office Supplies" has started tp perform well in both sales and profit.
+It is clear that "Technology" category has performed the best both in sales and profit and the rising trends are also evident for it. Although "Furniture" has a high sale traditionally, it does not produces high profit. Rather in recent times, "Office Supplies" has started tp perform well in both sales and profit.
 
 
 - <b>2. Sub-Category Dashboard - now we need to know which sub-category is performing how inside each category </b>
