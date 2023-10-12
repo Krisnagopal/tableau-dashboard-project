@@ -8,7 +8,7 @@ This project aimed for enhancing my dashboarding skill in Tableau using a sample
 
 <h2>Dashboards designed: </h2>
 
-- <b>SQL for ETL operation </b> 
+- <b>Category Dashboard - this will give clear indications about which category is doing how </b> 
 
 <h2>Tools and Libraries Used</h2>
 
