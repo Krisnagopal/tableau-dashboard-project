@@ -2,7 +2,7 @@
 <h1> Tableau Dashboard Building (practice) Project </h1>
 
 <h2>Description</h2>
-This project is aimed for enhancing my dashboarding skill in Tableau using a sample big dataset of a fictious superstore in the US.
+This is actually an ongoing project, aimed for enhancing my dashboarding skill (continuously) in Tableau using a sample big dataset of a fictious superstore in the US.
 <br />
 
 <h2>Dashboards designed so far: </h2>
