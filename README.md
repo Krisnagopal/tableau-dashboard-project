@@ -21,6 +21,12 @@ It is clear that "Technology" category has performed the best both in sales and 
 <img src="https://i.imgur.com/17dK0Uf.png" height="80%" width="80%" alt="Category-Dashboard"/>
 <br />
 
+- <b>3. Region Dashboard - after getting to know the performances of the categories and sub-categories, we now intersted to know about the region-wise performances. </b>
+  - [Click here to view the Dashboard on Tableau Public](https://public.tableau.com/app/profile/krisna.gopal.das/viz/3_RegionDashboard/RegionDashboard?publish=yes)
+<br/>
+<img src="https://i.imgur.com/uKJtIsS.png" height="80%" width="80%" alt="Category-Dashboard"/>
+<br />
+
 <!--
  ```diff
 - text in red
