@@ -25,7 +25,7 @@ We already know that despite high sales, "Furniture" category is generating very
 - <b>3. Region Dashboard - after getting to know the performances of the categories and sub-categories, we now intersted to know about the region-wise performances. </b>
   - [Click here to view the Dashboard on Tableau Public](https://public.tableau.com/app/profile/krisna.gopal.das/viz/3_RegionDashboard/RegionDashboard?publish=yes)
 <img src="https://i.imgur.com/uKJtIsS.png" height="80%" width="80%" alt="Category-Dashboard"/>
-Here, it is clear that the WEST region is doing the best in terms of sales, profit, profit-sales ration and even with upward trend in recent times whereas CENTRAL region, even with decent sales traditionally, cannot generate good profit.
+Here, it is clear that the WEST region is doing the best in terms of sales, profit, profit-sales ratio and even with upward trend in recent times whereas CENTRAL region, even with decent sales traditionally, cannot generate good profit.
 <br>
 <br/>
 
